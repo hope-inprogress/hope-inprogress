@@ -11,7 +11,7 @@
 ## 🌐 Find Me Online
 
 - 🔗 [**Portfolio Website**](https://hope-inprogress.vercel.app)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/emelarfewi)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/amelarfaoui)  
 - 📸 [**Instagram**](https://www.instagram.com/emelarfewi)  
 
 ---
