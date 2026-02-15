@@ -21,9 +21,13 @@
 Since graduating in 2025, I’m diving deep into Full-Stack Web & Mobile Development, turning knowledge into real-world, useful projects.
 
 ### 💡 Focused On:
-- ⚙️ Building secure and intuitive fullstack applications  
-- 🧰 Exploring modern tools, libraries, and frameworks  
-- 🏥 Creating a clean, user-centered **medical web app** for my final-year project
+- ⚙️ Building secure, scalable, and user-friendly full-stack applications
+
+- 🧰 Exploring modern tools, libraries, and frameworks to enhance development
+
+- 🛒 Creating my personal e-commerce web app for handmade products, with client and admin dashboards, order management, and payment integration
+
+- 🏥 Drawing on past experience from MediConnect, my final-year telemedicine project, to inform clean and user-centered design
 
 ---
 
