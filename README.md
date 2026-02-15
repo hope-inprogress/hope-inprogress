@@ -1,27 +1,24 @@
 <h1 align="center">✨ Hey, I'm Emell! ✨</h1>
 
 <p align="center">
-  🎓 23 y/o Final-Year IT Student from Tunisia  
+  🎓 23 y/o IT Graduate (Class of 2025) from Tunisia 
   <br/>
-  💻 Passionate about building digital experiences that inspire and make life easier  
+  💻 💻 Passionate Full-Stack Developer | Web & Mobile Applications 
   <br/>
-  🌱 Always learning | Always creating
+  🌱 Always learning | Always building | Always creating
 </p>
-
----
 
 ## 🌐 Find Me Online
 
 - 🔗 [**Portfolio Website**](https://hope-inprogress.vercel.app)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/emelarfewi)  
-- 📸 [**Instagram**](https://www.instagram.com/hope.inprogress)  
-- 🎥 [**YouTube (coming soon)**](https://www.youtube.com/@hope.inprogress)
+- 📸 [**Instagram**](https://www.instagram.com/emelarfewi)  
 
 ---
 
 ## 🚀 What I'm Doing Now
 
-I’m currently diving deep into **Full-Stack Web & Mobile Development**, applying everything I learn through creative and useful real-life projects.
+Since graduating in 2025, I’m diving deep into Full-Stack Web & Mobile Development, turning knowledge into real-world, useful projects.
 
 ### 💡 Focused On:
 - ⚙️ Building secure and intuitive fullstack applications  
@@ -44,15 +41,14 @@ I’m currently diving deep into **Full-Stack Web & Mobile Development**, applyi
 
 ## 🌸 Little More About Me
 
-- 🧶 I’m also a crocheter & craft lover — I share this side of me on [@hope.inprogress](https://www.instagram.com/hope.inprogress)  
-- 🖋️ I write stories and reflections as **Echo & Whispers**  
-- 🌍 Dreaming of exploring the world one country (and code) at a time  
+- 🧶 I’m also a crocheter & craft lover — I share this side of me on [@thehopefulcrocheter](https://www.instagram.com/thehopefulcrocheter)
+- 🌍 Dreaming of exploring the world, one language (and one country) at a time
 
 ---
 
 ## 🤝 Let’s Connect & Collaborate
 
-I love meeting new people, sharing knowledge, and working on meaningful projects.  
+I’m looking to grow as a developer, contribute to impactful projects, and collaborate with teams or mentors who value innovation, learning, and creativity.
 If you want to say hi, collaborate, or just give feedback — don’t hesitate 💌
 
 > *“In progress — always, hopefully.”*
